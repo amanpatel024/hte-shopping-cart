@@ -1,9 +1,9 @@
 
 import { useState } from 'react';
 
-import ProductList from './Components/ProductList';
-import Cart from './Components/Cart';
-import OrderSummary from './Components/OrderSummary';
+import ProductList from './components/ProductList.jsx';
+import Cart from './components/Cart.jsx';
+import OrderSummary from './components/OrderSummary.jsx';
 
 function App() {
 
